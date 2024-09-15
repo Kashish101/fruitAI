@@ -7,23 +7,26 @@ Welcome to the Fruit App, your ultimate companion for exploring and managing a d
   JavaScript: For interactive elements and dynamic content.
   Express: A Node.js framework used for the backend server, handling routes, and managing user sessions.
   
-![image](https://github.com/user-attachments/assets/90a20adb-9fc7-47e1-a29d-31158f1de565)
+
 
 # Features
   1. Login and Signup Pages
   Login: Securely log in to your account with email and password authentication.
   Signup: Create a new account with user registration, including form validation and error handling.
+    ![image](https://github.com/user-attachments/assets/cb3d6f71-07ce-4543-af76-c4816962bca1)
+
   2. Home Page
   Chat Option: Engage in real-time chat with support or other users to get help, share tips, or discuss fruit-related topics.
   FAQ Section: Access frequently asked questions to get quick answers about the app and its features.
   About Page: Learn more about the app, its creators, and the mission behind the project.
+    ![image](https://github.com/user-attachments/assets/90a20adb-9fc7-47e1-a29d-31158f1de565)
 
 
 # Installation
   To set up the Fruit App locally, follow these steps:
   
-  Clone the Repository: git clone https://github.com/yourusername/fruit-app.git
-  Navigate to the Project Directory: cd fruit-app
+  Clone the Repository: git clone https://github.com/yourusername/fruitAI.git
+  Navigate to the Project Directory: cd fruitAI
 
 # Usage
   Navigate to the Login or Signup Page: Use the provided forms to log in or create a new account.
